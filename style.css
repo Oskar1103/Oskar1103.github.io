@@ -1,0 +1,42 @@
+body {
+  color: dark;
+}
+
+img {
+  margin-right: 20px;
+}
+
+.container {
+  margin-left: 10px auto;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  transition: opacity 2s ease-in-out left;
+  -webkit-transition: 2s ease-in-out left;
+    -moz-transition: 2s ease-in-out left;
+    -o-transition: 2s ease-in-out left;
+}
+
+.carousel-caption {
+  margin-bottom: 95px;
+}
+
+.kruokalink {
+  text-decoration: none;
+  color: #CCCCFF;
+}
+
+.iframe {
+  margin-left: 50px auto;
+}
